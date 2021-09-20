@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculadora de ISR</string>
+    <string name="strEncabezado">Calcula el ISR</string>
+    <string name="strPeriodo">Período</string>
+    <string name="strIngreso">Ingreso Neto</string>
+    <string name="hintIngreso">$00.00</string>
+    <string name="strCalcular">Calcular</string>
+    <string name="strTuISR">Tu ISR es: </string>
+    <string name="strcalculos">Cálculos ▼ </string>
+</resources>
